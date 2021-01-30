@@ -1,8 +1,8 @@
-# B-Spline Project
+# B-Spline Toolbox
 
 ## Description
 
-An easy to use toolbox for bSpline-based interpolation and signal approximation, for both functions and images. 
+A basic toolbox for bSpline-based interpolation and signal approximation, for both functions and images. 
 
 The demos (*oneDimensionDemo.m* and *imageDemo.m*) allow you to reconstruct a polynomial and an image. If there is not interpolation in the image case, the MSE and the PSNR are computed as well.
 
