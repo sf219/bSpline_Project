@@ -14,14 +14,7 @@ The function *getBSpline.m* computes the sampled version of the B-Spline of orde
 
 ## Applications
 
-This toolbox might be useful for image analysis: B-Splines provide a powerful way of representing images which can be analyzed easily. Furhtermore, they allow to represent linear functions, providing a powerful bridge with wavelet theory.  You may find B-Splines in several up-to-date signal processing papers, as
-
-[1] Bhandari, A., Beckmann, M. and Krahmer, F., 2021, January. **The modulo Radon transform and its inversion.** In *2020 28th European Signal Processing Conference (EUSIPCO)* (pp. 770-774). IEEE.
-
-[2] Bhandari, Ayush, and Felix Krahmer. **HDR imaging from quantization noise.** In *2020 IEEE International Conference on Image Processing (ICIP)*, pp. 101-105. IEEE, 2020.
-
-[3] S. Aziznejad, M. Unser, **Deep Spline Networks with Control of Lipschitz Regularity,** Best student paper award, *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'19)*, Brighton, United Kingdom, May 12-17, 2019, pp. 3242-3246.
-
+This toolbox might be useful for image analysis: B-Splines provide a powerful way of representing images which can be analyzed easily. Furhtermore, they allow to represent linear functions, providing a powerful bridge with wavelet theory.  You may find B-Splines in several up-to-date signal processing papers.
 ## Disclaimer
 
 In case you find any bugs or something which is hard to explain in the code, please, contact me.
